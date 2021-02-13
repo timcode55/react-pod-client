@@ -1,0 +1,28 @@
+*/ .selection-boxes {
+	-webkit-appearance: none;
+	border: none;
+	outline: none;
+	padding: 10px;
+	width: 150px;
+	line-height: 30px;
+	margin-bottom: 30px;
+}
+
+.select {
+	width: 300px;
+}
+
+.dropdown-title {
+	font-size: 2rem;
+}
+
+.option {
+	font-size: 2rem;
+	width: 200px;
+}
+
+.header-main {
+	display: flex;
+	justify-content: space-around;
+	margin-bottom: 30px;
+}
